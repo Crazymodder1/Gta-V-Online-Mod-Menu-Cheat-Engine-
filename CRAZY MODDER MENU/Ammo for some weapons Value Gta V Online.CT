@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"SMG"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>8080FF</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1F1962E54D0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Assult Rifle"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FF8000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1F1962E55A0</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

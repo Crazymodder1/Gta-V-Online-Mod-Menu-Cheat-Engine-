@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Diamond CM"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FFFF80</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>17B8BDEAE38</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Diamond CM"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FFFF80</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>17B8BDF44D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Diamond CM"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>FFFF80</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>17B8EE92660</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

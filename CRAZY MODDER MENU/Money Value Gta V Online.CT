@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Money$"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>80FF00</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTA5.exe+1D8C118</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Money$"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>80FF00</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GTA5.exe+2FE08B0</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
